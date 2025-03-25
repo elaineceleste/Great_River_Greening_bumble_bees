@@ -1,0 +1,109 @@
+dummy,collectioncode,LocationCode,year,Date,timestart,timeend,Number.volunteers,total.minutes,effort,Temp,WindMaxmph,BumbleBeeIDer,EstCloudCover,BumbleBeeSpecies,Abundance,Sex,FlowerGenus,Flowerspecies,Flowerfamily,FlowerFieldName
+2,2022RitterJuly7,Ritter,2022,7/7/2022,10:30,12:00,22,90,1980,82,10,Elaine Evans and Sarah Foltz-Jordan,overcast,bimaculatus,14,female,Sorbaria,sorbifolia,Rosaceae,false spirea
+3,2022RitterJuly7,Ritter,2022,7/7/2022,10:30,12:00,22,90,1980,82,10,Elaine Evans and Sarah Foltz-Jordan,overcast,impatiens,6,female,Sorbaria,sorbifolia,Rosaceae,false spirea
+4,2022RitterJuly7,Ritter,2022,7/7/2022,10:30,12:00,22,90,1980,82,10,Elaine Evans and Sarah Foltz-Jordan,overcast,pensylvanicus,2,female,Sorbaria,sorbifolia,Rosaceae,false spirea
+5,2022SpringLakeJuly7,SpringLake,2022,7/7/2022,13:00,14:00,4,90,360,85,10,Elaine Evans and Sarah Foltz-Jordan,clear,auricomus,1,female,Baptisia,lactea,Fabaceae,white wild indigo
+6,2022SpringLakeJuly7,SpringLake,2022,7/7/2022,13:00,14:00,4,90,360,85,10,Elaine Evans and Sarah Foltz-Jordan,clear,auricomus,1,female,Dalea,purpurea,Fabaceae,purple prairie clover
+7,2022SpringLakeJuly7,SpringLake,2022,7/7/2022,13:00,14:00,4,90,360,85,10,Elaine Evans and Sarah Foltz-Jordan,clear,auricomus/pensylvanicus,2,female,Baptisia,purpurea,Fabaceae,white wild indigo
+8,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,affinis,5,female,Monarda ,fistulosa,Lamiaceae,mon fis
+9,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,auricomus,9,female,Monarda ,fistulosa,Lamiaceae,mon fis
+10,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,auricomus,1,male,Vernonia,fasciculata,Asteraceae,iron weed
+11,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,auricomus,1,female,Veronicastrum,virginicum,Fabaceae,culvers root
+12,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,bimaculatus,1,female,Echinacea,purpurea,Asteraceae,echnacea
+13,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,bimaculatus,1,female,Ratibida,pinnata,Asteraceae,rat pin
+14,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,bimaculatus,2,female,Monarda ,fistulosa,Lamiaceae,mon fis
+15,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,bimaculatus,6,male,Monarda ,fistulosa,Lamiaceae,mon fis
+16,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,griseocollis,1,female,Echinacea,purpurea,Asteraceae,echnacea
+17,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,griseocollis,4,male,Echinacea,purpurea,Asteraceae,echnacea
+18,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,griseocollis,4,male,Ratibida,pinnata,Asteraceae,rat pin
+19,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,griseocollis,16,male,Monarda ,fistulosa,Lamiaceae,mon fis
+20,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,griseocollis,1,male,Agastache,foeniculum,Lamiaceae,anise hyss
+21,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,griseocollis,1,male,Eutrochium,maculatum,Asteraceae,joe pye
+22,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,griseocollis,1,female,Pycnathemum,virginianum,Lamiaceae,mt mint
+23,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,impatiens,22,female,Pycnathemum,virginianum,Lamiaceae,mt mint
+24,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,impatiens,5,female,Echinacea,purpurea,Asteraceae,echnacea
+25,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,impatiens,8,female,Veronicastrum,virginicum,Fabaceae,culvers root
+26,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,impatiens,2,male,Veronicastrum,virginicum,Fabaceae,culvers root
+27,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,impatiens,9,female,Monarda ,fistulosa,Lamiaceae,mon fis
+28,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,impatiens,1,female,Cirsium,vulgare,Asteraceae,bull thistle
+29,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,impatiens,2,female,Ratibida,pinnata,Asteraceae,rat pin
+30,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,impatiens,2,female,Verbena,stricta,,
+31,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,impatiens,1,female,NA,NA,,
+32,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,impatiens,1,female,Eutrochium,maculatum,Asteraceae,joe pye
+33,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,pensylvanicus,1,female,Monarda ,fistulosa,Lamiaceae,mon fis
+34,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,rufocinctus,1,female,Ratibida,pinnata,Asteraceae,rat pin
+35,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,vagans,9,female,Monarda ,fistulosa,Lamiaceae,mon fis
+36,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,vagans,2,female,Echinacea,purpurea,Asteraceae,echnacea
+37,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,vagans,1,female,Veronicastrum,virginicum,Fabaceae,culvers root
+38,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,vagans,1,female,Allium,cernuum,Liliaceae,knodding wild onion
+39,2022RitterAugust9,Ritter,2022,8/9/2022,13:30,14:30,12,90,1080,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,vagans,1,female,Ratibida,pinnata,Asteraceae,rat pin
+40,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,affinis,1,female,Pycnathemum,virginianum,Lamiaceae,pyc vir
+41,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,auricomus,22,female,Monarda ,fistulosa,Lamiaceae,mon fis
+42,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,auricomus,1,female,Ratibida,pinnata,Asteraceae,rat pin
+43,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,auricomus,1,female,Veronicastrum,virginicum,Fabaceae,culvers root
+44,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,bimaculatus,2,female,Monarda ,fistulosa,Lamiaceae,mon fis
+45,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,bimaculatus,1,male,Pycnathemum,virginianum,Lamiaceae,pyc vir
+46,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,bimaculatus,2,female,Veronicastrum,virginicum,Fabaceae,culvers root
+47,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,griseocollis,3,male,Ratibida,pinnata,Asteraceae,rat pin
+48,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,griseocollis,1,female,Pycnathemum,virginianum,Lamiaceae,pyc vir
+49,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,griseocollis,1,female,Pycnathemum,verticillatum,Lamiaceae,hairy mt mint
+50,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,griseocollis,1,female,Veronicastrum,virginicum,Fabaceae,culvers root
+51,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,impatiens,6,female,Veronicastrum,virginicum,Fabaceae,culvers root
+52,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,impatiens,2,male,Veronicastrum,virginicum,Fabaceae,culvers root
+53,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,impatiens,1,female,Desmodium,canadense,Fabaceae,tick trefoil
+54,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,impatiens,1,male,Ratibida,pinnata,Asteraceae,rat pin
+55,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,impatiens,1,female,Monarda ,fistulosa,Lamiaceae,mon fis
+56,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,rufocinctus,1,male,Patrolling,NA,,
+57,2022SpringLakeAugust9,SpringLake,2022,8/9/2022,10:30,12:45,8,140,1120,80,5,Elaine Evans and Sarah Foltz-Jordan,clear,vagans,1,female,Monarda ,fistulosa,Lamiaceae,mon fis
+58,2022RitterAugust25,Ritter,2022,8/25/2022,10:15,11:45,35,90,3150,64,5,Willow Lovecky and Chan Dolan,overcast,bimaculatus,1,female,Eutrochium,maculatum,,
+59,2022RitterAugust25,Ritter,2022,8/25/2022,10:15,11:45,35,90,3150,64,5,Willow Lovecky and Chan Dolan,overcast,impatiens,27,female,Impatiens,capensis,,
+60,2022RitterAugust25,Ritter,2022,8/25/2022,10:15,11:45,35,90,3150,64,5,Willow Lovecky and Chan Dolan,overcast,impatiens,1,male,Impatiens,capensis,,
+61,2022RitterAugust25,Ritter,2022,8/25/2022,10:15,11:45,35,90,3150,64,5,Willow Lovecky and Chan Dolan,overcast,impatiens,2,female,Echinacea,purpurea,,
+62,2022RitterAugust25,Ritter,2022,8/25/2022,10:15,11:45,35,90,3150,64,5,Willow Lovecky and Chan Dolan,overcast,impatiens,1,female,Eutrochium,maculatum,,
+63,2022RitterAugust25,Ritter,2022,8/25/2022,10:15,11:45,35,90,3150,64,5,Willow Lovecky and Chan Dolan,overcast,impatiens,2,female,Solidago,canadensis,,
+64,2022RitterAugust25,Ritter,2022,8/25/2022,10:15,11:45,35,90,3150,64,5,Willow Lovecky and Chan Dolan,overcast,impatiens,2,female,Solanum,dulcamara,,
+65,2022RitterAugust25,Ritter,2022,8/25/2022,10:15,11:45,35,90,3150,64,5,Willow Lovecky and Chan Dolan,overcast,impatiens,1,female,Agastache,sp.,,
+66,2022RitterAugust25,Ritter,2022,8/25/2022,10:15,11:45,35,90,3150,64,5,Willow Lovecky and Chan Dolan,overcast,impatiens,3,female,Cirsium,discolor,,
+67,2022RitterAugust25,Ritter,2022,8/25/2022,10:15,11:45,35,90,3150,64,5,Willow Lovecky and Chan Dolan,overcast,impatiens,1,female,Veronicastrum,virginianum,,
+68,2022RitterAugust25,Ritter,2022,8/25/2022,10:15,11:45,35,90,3150,64,5,Willow Lovecky and Chan Dolan,overcast,vagans,16,female,Impatiens,capensis,,
+69,2022RitterAugust25,Ritter,2022,8/25/2022,10:15,11:45,35,90,3150,64,5,Willow Lovecky and Chan Dolan,overcast,vagans,1,male,Solidago,canadensis,,
+70,2022RitterAugust25,Ritter,2022,8/25/2022,10:15,11:45,35,90,3150,64,5,Willow Lovecky and Chan Dolan,overcast,vagans,3,male,Impatiens,capensis,,
+71,2022RitterAugust25,Ritter,2022,8/25/2022,10:15,11:45,35,90,3150,64,5,Willow Lovecky and Chan Dolan,overcast,vagans,1,female,Agastache,sp.,,
+72,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,affinis,1,male,Solidago,canadensis,,
+73,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,auricomus,1,female,Solidago,rigida,,
+74,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,auricomus,3,female,Gentiana,alba,,
+75,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,auricomus,1,female,Liatris,aspera,,
+76,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,citrinus,1,female,Liatris,aspera,,
+77,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,citrinus,1,male,Silphium,perfoliatum,,
+78,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,citrinus,5,male,Solidago,canadensis,,
+79,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,griseocollis,2,female,Lezpedeza,capitata,,
+80,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,griseocollis,1,female,Gentiana,alba,,
+81,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,griseocollis,1,male,Monarda ,fistulosa,,
+82,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,griseocollis,1,male,Pycnathemum,virginianum,,
+83,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,griseocollis,2,male,Solidago,canadensis,,
+84,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,griseocollis,1,female,Rhus,glabra,,
+85,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,griseocollis,1,female,Ratibida,sp.,,
+86,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,impatiens,21,female,Solidago,canadensis,,
+87,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,impatiens,7,male,Solidago,canadensis,,
+88,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,impatiens,13,female,Lezpedeza,capitata,,
+89,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,impatiens,2,female,Silphium,perfoliatum,,
+90,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,impatiens,2,female,Physotegia,virginiana,,
+91,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,impatiens,1,female,Veronicastrum,virginianum,,
+92,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,impatiens,1,female,NA,NA,,
+93,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,rufocinctus,1,male,Monarda ,fistulosa,,
+94,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,rufocinctus,1,male,Lezpedeza,capitata,,
+95,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,vagans,3,female,Physotegia,virginiana,,
+96,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,vagans,3,female,Solidago,canadensis,,
+97,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,vagans,1,female,Physotegia,virginiana,,
+98,2022SpringLakeAugust25,SpringLake,2022,8/25/2022,13:00,14:30,11,90,990,71,5,Willow Lovecky and Chan Dolan,overcast,vagans,1,female,Solidago,canadensis,,
+99,2022SpringLakeSeptember12,SpringLake,2022,9/12/2022,12:30,14:30,1.5,120,180,72,5,Elaine Evans,clear,affinis,3,male,Solidago,speciosa,Asteraceae,
+100,2022SpringLakeSeptember12,SpringLake,2022,9/12/2022,12:30,14:30,1.5,120,180,72,5,Elaine Evans,clear,citrinus,2,male,Solidago,speciosa,Asteraceae,
+101,2022SpringLakeSeptember12,SpringLake,2022,9/12/2022,12:30,14:30,1.5,120,180,72,5,Elaine Evans,clear,griseocollis,3,male,Solidago,speciosa,Asteraceae,
+102,2022SpringLakeSeptember12,SpringLake,2022,9/12/2022,12:30,14:30,1.5,120,180,72,5,Elaine Evans,clear,impatiens,1,female,Solidago,canadensis,Asteraceae,
+103,2022SpringLakeSeptember12,SpringLake,2022,9/12/2022,12:30,14:30,1.5,120,180,72,5,Elaine Evans,clear,impatiens,3,male,Solidago,canadensis,Asteraceae,
+104,2022SpringLakeSeptember12,SpringLake,2022,9/12/2022,12:30,14:30,1.5,120,180,72,5,Elaine Evans,clear,impatiens,9,female,Solidago,speciosa,Asteraceae,
+105,2022SpringLakeSeptember12,SpringLake,2022,9/12/2022,12:30,14:30,1.5,120,180,72,5,Elaine Evans,clear,impatiens,57,male,Solidago,speciosa,Asteraceae,
+106,2022SpringLakeSeptember12,SpringLake,2022,9/12/2022,12:30,14:30,1.5,120,180,72,5,Elaine Evans,clear,impatiens,1,female,Solidago,rigida,Asteraceae,
+107,2022SpringLakeSeptember12,SpringLake,2022,9/12/2022,12:30,14:30,1.5,120,180,72,5,Elaine Evans,clear,impatiens,2,male,Solidago,rigida,Asteraceae,
+108,2022SpringLakeSeptember12,SpringLake,2022,9/12/2022,12:30,14:30,1.5,120,180,72,5,Elaine Evans,clear,rufocinctus,1,female,Solidago,speciosa,Asteraceae,
+109,2022SpringLakeSeptember12,SpringLake,2022,9/12/2022,12:30,14:30,1.5,120,180,72,5,Elaine Evans,clear,vagans,2,male,Solidago,speciosa,Asteraceae,
