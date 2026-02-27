@@ -17,3 +17,4 @@ CollectionCode(year location date),LocationCode,year,eventDate,timeStart,timeEnd
 2025RitterJuly11,Ritter,2025,7/11/2025,10:30,11:40,171,6,24,70,1.166666667,1680,0.101785714,6.107142857,21.66666667,71,N/A,"Elaine Evans, Clara Costello, Elise Bernstein",overcast,"Green, Pink, White",
 2025RitterJuly25,Ritter,2025,7/25/2025,10:00,11:10,274,7,36,70,1.166666667,2520,0.108730159,6.523809524,24.44444444,76,N/A,"Elaine Evans, Clara Costello, Elise Bernstein",hazy,,
 2025RitterAugust15,Ritter,2025,8/15/2025,10:29,11:45,315,9,37,76,1.266666667,2812,0.112019915,6.721194879,25,77,N/A,"Sami Dolan, Elaine Evans, Elise Berstein",clear,,
+
