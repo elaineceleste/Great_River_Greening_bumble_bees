@@ -1,318 +1,318 @@
-collectioncode,site,year,BumbleBeeSpecies,Abundance,Sex,FlowerGenus,Flowerspecies,Flowerfamily,FlowerFieldName,plantgenus_cleaned,plantspecies_cleaned,plantgenusspecies_cleaned,
-2022RitterAugust9,Ritter_Farm,2022,affinis,5,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,affinis,1,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,affinis,1,female,Pycnathemum,virginianum,Lamiaceae,pyc vir,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2022SpringLakeSeptember12,Spring_Lake_Park,2022,affinis,3,male,Solidago,speciosa,Asteraceae,,Solidago,speciosa,Solidago_speciosa,
-2022RitterAugust9,Ritter_Farm,2022,auricomus,9,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa,
-2022RitterAugust9,Ritter_Farm,2022,auricomus,1,male,Vernonia,fasciculata,Asteraceae,iron weed,Vernonia,fasciculata,Vernonia_fasciculata,
-2022RitterAugust9,Ritter_Farm,2022,auricomus,1,female,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,auricomus,1,female,Solidago,rigida,,,Solidago,rigida,Solidago_rigida,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,auricomus,3,female,Gentiana,alba,,,Gentiana,alba,Gentiana_alba,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,auricomus,1,female,Liatris,aspera,,,Liatris,aspera,Liatris_aspera,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,auricomus,22,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,auricomus,1,female,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,auricomus,1,female,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2022SpringLakeJuly7,Spring_Lake_Park,2022,auricomus,1,female,Baptisia,lactea,Fabaceae,white wild indigo,Baptisia,lactea,Baptisia_lactea,
-2022SpringLakeJuly7,Spring_Lake_Park,2022,auricomus,1,female,Dalea,purpurea,Fabaceae,purple prairie clover,Dalea,purpurea,Dalea_purpurea,
-2022SpringLakeJuly7,Spring_Lake_Park,2022,auricomus/pensylvanicus,2,female,Baptisia,purpurea,Fabaceae,white wild indigo,Baptisia,purpurea,Baptisia_purpurea,
-2022RitterAugust25,Ritter_Farm,2022,bimaculatus,1,female,Eutrochium,maculatum,,,Eutrochium,maculatum,Eutrochium_maculatum,
-2022RitterAugust9,Ritter_Farm,2022,bimaculatus,1,female,Echinacea,purpurea,Asteraceae,echnacea,Echinacea,purpurea,Echinacea_purpurea,
-2022RitterAugust9,Ritter_Farm,2022,bimaculatus,1,female,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata,
-2022RitterAugust9,Ritter_Farm,2022,bimaculatus,2,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa,
-2022RitterAugust9,Ritter_Farm,2022,bimaculatus,6,male,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa,
-2022RitterJuly7,Ritter_Farm,2022,bimaculatus,14,female,Sorbaria,sorbifolia,Rosaceae,false spirea,Sorbaria,sorbifolia,Sorbaria_sorbifolia,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,bimaculatus,2,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,bimaculatus,1,male,Pycnathemum,virginianum,Lamiaceae,pyc vir,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,bimaculatus,2,female,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,citrinus,1,female,Liatris,aspera,,,Liatris,aspera,Liatris_aspera,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,citrinus,1,male,Silphium,perfoliatum,,,Silphium,perfoliatum,Silphium_perfoliatum,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,citrinus,5,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2022SpringLakeSeptember12,Spring_Lake_Park,2022,citrinus,2,male,Solidago,speciosa,Asteraceae,,Solidago,speciosa,Solidago_speciosa,
-2022RitterAugust9,Ritter_Farm,2022,griseocollis,1,female,Echinacea,purpurea,Asteraceae,echnacea,Echinacea,purpurea,Echinacea_purpurea,
-2022RitterAugust9,Ritter_Farm,2022,griseocollis,4,male,Echinacea,purpurea,Asteraceae,echnacea,Echinacea,purpurea,Echinacea_purpurea,
-2022RitterAugust9,Ritter_Farm,2022,griseocollis,4,male,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata,
-2022RitterAugust9,Ritter_Farm,2022,griseocollis,16,male,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa,
-2022RitterAugust9,Ritter_Farm,2022,griseocollis,1,male,Agastache,foeniculum,Lamiaceae,anise hyss,Agastache,foeniculum,Agastache_foeniculum,
-2022RitterAugust9,Ritter_Farm,2022,griseocollis,1,male,Eutrochium,maculatum,Asteraceae,joe pye,Eutrochium,maculatum,Eutrochium_maculatum,
-2022RitterAugust9,Ritter_Farm,2022,griseocollis,1,female,Pycnathemum,virginianum,Lamiaceae,mt mint,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,griseocollis,2,female,Lezpedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,griseocollis,1,female,Gentiana,alba,,,Gentiana,alba,Gentiana_alba,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,griseocollis,1,male,Monarda ,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,griseocollis,1,male,Pycnathemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,griseocollis,2,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,griseocollis,1,female,Rhus,glabra,,,Rhus,glabra,Rhus_glabra,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,griseocollis,1,female,Ratibida,sp.,,,Ratibida,sp.,Ratibida_sp.,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,griseocollis,3,male,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,griseocollis,1,female,Pycnathemum,virginianum,Lamiaceae,pyc vir,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,griseocollis,1,female,Pycnathemum,verticillatum,Lamiaceae,hairy mt mint,Pycnanthemum,verticillatum,Pycnanthemum_verticillatum,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,griseocollis,1,female,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2022SpringLakeSeptember12,Spring_Lake_Park,2022,griseocollis,3,male,Solidago,speciosa,Asteraceae,,Solidago,speciosa,Solidago_speciosa,
-2022RitterAugust25,Ritter_Farm,2022,impatiens,27,female,Impatiens,capensis,,,Impatiens,capensis,Impatiens_capensis,
-2022RitterAugust25,Ritter_Farm,2022,impatiens,1,male,Impatiens,capensis,,,Impatiens,capensis,Impatiens_capensis,
-2022RitterAugust25,Ritter_Farm,2022,impatiens,2,female,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea,
-2022RitterAugust25,Ritter_Farm,2022,impatiens,1,female,Eutrochium,maculatum,,,Eutrochium,maculatum,Eutrochium_maculatum,
-2022RitterAugust25,Ritter_Farm,2022,impatiens,2,female,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2022RitterAugust25,Ritter_Farm,2022,impatiens,2,female,Solanum,dulcamara,,,Solanum,dulcamara,Solanum_dulcamara,
-2022RitterAugust25,Ritter_Farm,2022,impatiens,1,female,Agastache,sp.,,,Agastache,sp.,Agastache_sp.,
-2022RitterAugust25,Ritter_Farm,2022,impatiens,3,female,Cirsium,discolor,,,Cirsium,discolor,Cirsium_discolor,
-2022RitterAugust25,Ritter_Farm,2022,impatiens,1,female,Veronicastrum,virginianum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2022RitterAugust9,Ritter_Farm,2022,impatiens,22,female,Pycnathemum,virginianum,Lamiaceae,mt mint,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2022RitterAugust9,Ritter_Farm,2022,impatiens,5,female,Echinacea,purpurea,Asteraceae,echnacea,Echinacea,purpurea,Echinacea_purpurea,
-2022RitterAugust9,Ritter_Farm,2022,impatiens,8,female,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2022RitterAugust9,Ritter_Farm,2022,impatiens,2,male,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2022RitterAugust9,Ritter_Farm,2022,impatiens,9,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa,
-2022RitterAugust9,Ritter_Farm,2022,impatiens,1,female,Cirsium,vulgare,Asteraceae,bull thistle,Cirsium,vulgare,Cirsium_vulgare,
-2022RitterAugust9,Ritter_Farm,2022,impatiens,2,female,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata,
-2022RitterAugust9,Ritter_Farm,2022,impatiens,2,female,Verbena,stricta,,,Verbena,stricta,Verbena_stricta,
-2022RitterAugust9,Ritter_Farm,2022,impatiens,1,female,NA,NA,,,NA,,NA,
-2022RitterAugust9,Ritter_Farm,2022,impatiens,1,female,Eutrochium,maculatum,Asteraceae,joe pye,Eutrochium,maculatum,Eutrochium_maculatum,
-2022RitterJuly7,Ritter_Farm,2022,impatiens,6,female,Sorbaria,sorbifolia,Rosaceae,false spirea,Sorbaria,sorbifolia,Sorbaria_sorbifolia,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,impatiens,21,female,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,impatiens,7,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,impatiens,13,female,Lezpedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,impatiens,2,female,Silphium,perfoliatum,,,Silphium,perfoliatum,Silphium_perfoliatum,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,impatiens,2,female,Physotegia,virginiana,,,Physotegia,virginiana,Physotegia_virginiana,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,impatiens,1,female,Veronicastrum,virginianum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,impatiens,1,female,NA,NA,,,NA,,NA,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,impatiens,6,female,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,impatiens,2,male,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,impatiens,1,female,Desmodium,canadense,Fabaceae,tick trefoil,Desmodium,canadense,Desmodium_canadense,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,impatiens,1,male,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,impatiens,1,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa,
-2022SpringLakeSeptember12,Spring_Lake_Park,2022,impatiens,1,female,Solidago,canadensis,Asteraceae,,Solidago,canadensis,Solidago_canadensis,
-2022SpringLakeSeptember12,Spring_Lake_Park,2022,impatiens,3,male,Solidago,canadensis,Asteraceae,,Solidago,canadensis,Solidago_canadensis,
-2022SpringLakeSeptember12,Spring_Lake_Park,2022,impatiens,9,female,Solidago,speciosa,Asteraceae,,Solidago,speciosa,Solidago_speciosa,
-2022SpringLakeSeptember12,Spring_Lake_Park,2022,impatiens,57,male,Solidago,speciosa,Asteraceae,,Solidago,speciosa,Solidago_speciosa,
-2022SpringLakeSeptember12,Spring_Lake_Park,2022,impatiens,1,female,Solidago,rigida,Asteraceae,,Solidago,rigida,Solidago_rigida,
-2022SpringLakeSeptember12,Spring_Lake_Park,2022,impatiens,2,male,Solidago,rigida,Asteraceae,,Solidago,rigida,Solidago_rigida,
-2022RitterAugust9,Ritter_Farm,2022,pensylvanicus,1,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa,
-2022RitterJuly7,Ritter_Farm,2022,pensylvanicus,2,female,Sorbaria,sorbifolia,Rosaceae,false spirea,Sorbaria,sorbifolia,Sorbaria_sorbifolia,
-2022RitterAugust9,Ritter_Farm,2022,rufocinctus,1,female,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,rufocinctus,1,male,Monarda ,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,rufocinctus,1,male,Lezpedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,rufocinctus,1,male,Patrolling,NA,,,patrolling_or_perching,patrolling_or_perching,patrolling_or_perching,
-2022SpringLakeSeptember12,Spring_Lake_Park,2022,rufocinctus,1,female,Solidago,speciosa,Asteraceae,,Solidago,speciosa,Solidago_speciosa,
-2022RitterAugust25,Ritter_Farm,2022,vagans,16,female,Impatiens,capensis,,,Impatiens,capensis,Impatiens_capensis,
-2022RitterAugust25,Ritter_Farm,2022,vagans,1,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2022RitterAugust25,Ritter_Farm,2022,vagans,3,male,Impatiens,capensis,,,Impatiens,capensis,Impatiens_capensis,
-2022RitterAugust25,Ritter_Farm,2022,vagans,1,female,Agastache,sp.,,,Agastache,sp.,Agastache_sp.,
-2022RitterAugust9,Ritter_Farm,2022,vagans,9,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa,
-2022RitterAugust9,Ritter_Farm,2022,vagans,2,female,Echinacea,purpurea,Asteraceae,echnacea,Echinacea,purpurea,Echinacea_purpurea,
-2022RitterAugust9,Ritter_Farm,2022,vagans,1,female,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2022RitterAugust9,Ritter_Farm,2022,vagans,1,female,Allium,cernuum,Liliaceae,knodding wild onion,Allium,cernuum,Allium_cernuum,
-2022RitterAugust9,Ritter_Farm,2022,vagans,1,female,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,vagans,3,female,Physotegia,virginiana,,,Physotegia,virginiana,Physotegia_virginiana,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,vagans,3,female,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,vagans,1,female,Physotegia,virginiana,,,Physotegia,virginiana,Physotegia_virginiana,
-2022SpringLakeAugust25,Spring_Lake_Park,2022,vagans,1,female,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2022SpringLakeAugust9,Spring_Lake_Park,2022,vagans,1,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa,
-2022SpringLakeSeptember12,Spring_Lake_Park,2022,vagans,2,male,Solidago,speciosa,Asteraceae,,Solidago,speciosa,Solidago_speciosa,
-2023RitterJuly7,Ritter_Farm,2023,impatiens,18,female,Sorbaria ,sorbifolia,,,Sorbaria,sorbifolia,Sorbaria_sorbifolia,
-2023RitterJuly7,Ritter_Farm,2023,impatiens,5,female,Cirsium,arvense,,,Cirsium,arvense,Cirsium_arvense,
-2023RitterJuly7,Ritter_Farm,2023,impatiens,1,male,Cirsium,arvense,,,Cirsium,arvense,Cirsium_arvense,
-2023RitterJuly7,Ritter_Farm,2023,bimaculatus,8,female,Sorbaria ,sorbifolia,,,Sorbaria,sorbifolia,Sorbaria_sorbifolia,
-2023RitterJuly7,Ritter_Farm,2023,bimaculatus,1,female,Pycnanthemum,virginianum,,Mt mint,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023RitterJuly7,Ritter_Farm,2023,bimaculatus,1,female,Agastache,foeniculum,,,Agastache,foeniculum,Agastache_foeniculum,
-2023RitterJuly7,Ritter_Farm,2023,bimaculatus,5,female,Cirsium,arvense,,,Cirsium,arvense,Cirsium_arvense,
-2023RitterJuly7,Ritter_Farm,2023,bimaculatus,5,male,Sorbaria ,sorbifolia,,,Sorbaria,sorbifolia,Sorbaria_sorbifolia,
-2023RitterJuly7,Ritter_Farm,2023,bimaculatus,3,male,Monarda,fistulosa,Lamiaceae,Mon fis,Monarda,fistulosa,Monarda_fistulosa,
-2023RitterJuly7,Ritter_Farm,2023,bimaculatus,2,male,Nepeta,sp. ,,catmint,Nepeta,sp. ,Nepeta_sp. ,
-2023RitterJuly7,Ritter_Farm,2023,bimaculatus,1,male,Agastache,foeniculum,,,Agastache,foeniculum,Agastache_foeniculum,
-2023RitterJuly7,Ritter_Farm,2023,bimaculatus,4,male,Cirsium,arvense,,,Cirsium,arvense,Cirsium_arvense,
-2023RitterJuly7,Ritter_Farm,2023,griseocollis,1,female,Sorbaria ,sorbifolia,,,Sorbaria,sorbifolia,Sorbaria_sorbifolia,
-2023RitterJuly7,Ritter_Farm,2023,griseocollis,1,female,Cirsium,arvense,,,Cirsium,arvense,Cirsium_arvense,
-2023RitterJuly7,Ritter_Farm,2023,griseocollis,1,male,Cirsium,arvense,,,Cirsium,arvense,Cirsium_arvense,
-2023RitterJuly7,Ritter_Farm,2023,auricomus,1,female,Sorbaria,sorbifolia,,,Sorbaria,sorbifolia,Sorbaria_sorbifolia,
-2023RitterJuly7,Ritter_Farm,2023,vagans,1,female,Nepeta,sp. ,,catmint,Nepeta,sp. ,Nepeta_sp. ,
-2023RitterJuly7,Ritter_Farm,2023,vagans,1,female,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea,
-2023RitterJuly7,Ritter_Farm,2023,vagans,1,female,Cirsium,arvense,,,Cirsium,arvense,Cirsium_arvense,
-2023RitterJuly7,Ritter_Farm,2023,rufocinctus,2,female,Sorbaria,sorbifolia,,,Sorbaria,sorbifolia,Sorbaria_sorbifolia,
-2023RitterJuly7,Ritter_Farm,2023,rufocinctus,1,female,Trifolium,repens,,,Trifolium,repens,Trifolium_repens,
-2023RitterJuly7,Ritter_Farm,2023,rufocinctus,1,female,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,bimaculatus,6,female,Monarda,fistulosa,,Mon fist,Monarda,fistulosa,Monarda_fistulosa,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,bimaculatus,6,female,Desmodium,canadense,,Desmodium,Desmodium,canadense,Desmodium_canadense,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,bimaculatus,2,female,Dalea,candida, ,,Dalea,candida,Dalea_candida,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,bimaculatus,2,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,griseocollis,2,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,griseocollis,9,female,Desmodium,canadense,,,Desmodium,canadense,Desmodium_canadense,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,griseocollis,3,female,Dalea,purpurea,,,Dalea,purpurea,Dalea_purpurea,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,griseocollis,2,female,Dalea,candida,,,Dalea,candida,Dalea_candida,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,griseocollis,1,female,Vicia,villosa,,,Vicia,villosa,Vicia_villosa,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,griseocollis,4,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,griseocollis,1,male,Dalea,purpurea,,,Dalea,purpurea,Dalea_purpurea,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,auricomus,45,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,auricomus,12,female,Desmoidum,canadense,,,Desmodium,canadense,Desmodium_canadense,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,auricomus,4,female,Baptisa,alba,,Baptisa white,Baptisia,alba,Baptisia_alba,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,auricomus,3,female,Dalea,purpurea,,,Dalea,purpurea,Dalea_purpurea,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,auricomus,3,female,Dalea,candida,,,Dalea,candida,Dalea_candida,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,auricomus,1,female,Vicia,villosa,,,Vicia,villosa,Vicia_villosa,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,auricomus,1,female,Veronicastrum,virginicum,,culver's root,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,vagans,1,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,vagans,1,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,vagans,1,male,Dalea,purpurea,,,Dalea,purpurea,Dalea_purpurea,
-2023SpringLakeJuly7,Spring_Lake_Park,2023,rufocinctus,1,female,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023RitterAugust4,Ritter_Farm,2023,impatiens,67,female,Pycnanthemum,virginianum,,Mt mint,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023RitterAugust4,Ritter_Farm,2023,impatiens,13,female,Monarda,fistulosa,,Mon fist,Monarda,fistulosa,Monarda_fistulosa,
-2023RitterAugust4,Ritter_Farm,2023,impatiens,7,female,Veronicastrum,virginicum,,Culver's root,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023RitterAugust4,Ritter_Farm,2023,impatiens,3,female,Echinacea,purpurea,,Ech pur,Echinacea,purpurea,Echinacea_purpurea,
-2023RitterAugust4,Ritter_Farm,2023,impatiens,1,female,Eryngium,yuccifolium,,rattlesnake master,Eryngium,yuccifolium,Eryngium_yuccifolium,
-2023RitterAugust4,Ritter_Farm,2023,impatiens,1,female,Ratibida,pinnata,,Rat pin,Ratibida,pinnata,Ratibida_pinnata,
-2023RitterAugust4,Ritter_Farm,2023,impatiens,2,female,Verbena,stricta,,Ver stri,Verbena,stricta,Verbena_stricta,
-2023RitterAugust4,Ritter_Farm,2023,impatiens,1,male,Monarda ,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023RitterAugust4,Ritter_Farm,2023,impatiens,1,male,Ratibida ,pinnata,,,Ratibida,pinnata,Ratibida_pinnata,
-2023RitterAugust4,Ritter_Farm,2023,impatiens,1,male,Verbena,stricta,,,Verbena,stricta,Verbena_stricta,
-2023RitterAugust4,Ritter_Farm,2023,bimaculatus,4,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023RitterAugust4,Ritter_Farm,2023,bimaculatus,2,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023RitterAugust4,Ritter_Farm,2023,griseocollis,8,male,Echinacea ,purpurea,,,Echinacea,purpurea,Echinacea_purpurea,
-2023RitterAugust4,Ritter_Farm,2023,griseocollis,2,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023RitterAugust4,Ritter_Farm,2023,griseocollis,18,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023RitterAugust4,Ritter_Farm,2023,griseocollis,5,male,Ratibida,pinnata,,,Ratibida,pinnata,Ratibida_pinnata,
-2023RitterAugust4,Ritter_Farm,2023,griseocollis,2,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023RitterAugust4,Ritter_Farm,2023,auricomus,1,female,Ratibida,pinnata,,,Ratibida,pinnata,Ratibida_pinnata,
-2023RitterAugust4,Ritter_Farm,2023,auricomus,22,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023RitterAugust4,Ritter_Farm,2023,auricomus,2,female,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023RitterAugust4,Ritter_Farm,2023,auricomus,1,female,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea,
-2023RitterAugust4,Ritter_Farm,2023,vagans,9,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023RitterAugust4,Ritter_Farm,2023,vagans,2,female,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023RitterAugust4,Ritter_Farm,2023,vagans,1,female,Ratibida,pinnata,,,Ratibida,pinnata,Ratibida_pinnata,
-2023RitterAugust4,Ritter_Farm,2023,vagans,1,female,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023RitterAugust4,Ritter_Farm,2023,vagans,1,female,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea,
-2023RitterAugust4,Ritter_Farm,2023,rufocinctus,2,female,Ratibida,pinnata,,,Ratibida,pinnata,Ratibida_pinnata,
-2023RitterAugust4,Ritter_Farm,2023,rufocinctus,2,female,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023RitterAugust4,Ritter_Farm,2023,rufocinctus,1,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023RitterAugust4,Ritter_Farm,2023,rufocinctus,1,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023RitterAugust4,Ritter_Farm,2023,citrinus,1,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,impatiens,22,female,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,impatiens,1,female,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,impatiens,2,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,impatiens,1,male,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,bimaculatus,1,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,bimaculatus,1,female,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,bimaculatus,1,male,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,griseocollis,1,female,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,griseocollis,1,male,Liatris,pycnostachya,,,Liatris,pycnostachya,Liatris_pycnostachya,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,auricomus,28,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,auricomus,1,female,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,auricomus,1,female,Desomdium,canadense,,,Desmodium,canadense,Desmodium_canadense,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,auricomus,1,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,auricomus,2,male,perching,,,,patrolling_or_perching,patrolling_or_perching,patrolling_or_perching,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,vagans,1,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,vagans,1,female,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,vagans,1,male,Monarda,fistuloa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,vagans,2,male,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,rufocinctus,1,male,Ratibida,pinnata,,,Ratibida,pinnata,Ratibida_pinnata,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,rufocinctus,2,male,perching,,,,patrolling_or_perching,patrolling_or_perching,patrolling_or_perching,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,rufocinctus,4,female,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,rufocinctus,1,female,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,rufocinctus,1,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,citrinus,1,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,citrinus,1,male,Pycnanthemum,sp.,,,Pycnanthemum,sp.,Pycnanthemum_sp.,
-2023SpringLakeAugust4,Spring_Lake_Park,2023,affinis,1,female,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,8,female,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,14,female,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,5,female,Veronia,missurica,,,Vernonia,missurica,Vernonia_missurica,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,1,female,Ratibida,pinnata,,,Ratibida,pinnata,Ratibida_pinnata,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,2,female,Monarda,fistulsoa,,bee balm,Monarda,fistulosa,Monarda_fistulosa,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,3,female,Heliopsis,helianthoides,,,Heliopsis,helianthoides,Heliopsis_helianthoides,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,2,female,Sonchus,oleraceus,,sow thistle,Sonchus,oleraceus,Sonchus_oleraceus,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,2,female,Solidago,canadensis,,Sol can,Solidago,canadensis,Solidago_canadensis,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,1,female,Rudbeckia,hirta,,Rud hirt,Rudbeckia,hirta,Rudbeckia_hirta,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,2,male,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,34,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,3,male,Veronia,missurica,,,Vernonia,missurica,Vernonia_missurica,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,2,male,perching,,,,patrolling_or_perching,patrolling_or_perching,patrolling_or_perching,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,5,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,2,male,Heliopsis,helianthoides,,,Heliopsis,helianthoides,Heliopsis_helianthoides,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,3,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,4,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,2,female,Oxalis,dillenii,,,Oxalis,dillenii,Oxalis_dillenii,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,2,female,Eutrochium,purpureum,,,Eutrochium,purpureum,Eutrochium_purpureum,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,1,female,Cirsium,sp.,,,Cirsium,sp.,Cirsium_sp.,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,1,male,Berteroa,incana,,,Berteroa,incana,Berteroa_incana,
-2023RitterAugust17,Ritter_Farm,2023,impatiens,6,male,Eurtrochium,purpureum,,,Eutrochium,purpureum,Eutrochium_purpureum,
-2023RitterAugust17,Ritter_Farm,2023,griseocollis,8,male,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea,
-2023RitterAugust17,Ritter_Farm,2023,griseocollis,4,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023RitterAugust17,Ritter_Farm,2023,griseocollis,1,male,Veronia,missurica,,,Vernonia,missurica,Vernonia_missurica,
-2023RitterAugust17,Ritter_Farm,2023,griseocollis,1,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023RitterAugust17,Ritter_Farm,2023,griseocollis,1,male,Cirsium,vulgaris,,,Cirsium,vulgare,Cirsium_vulgare,
-2023RitterAugust17,Ritter_Farm,2023,auricomus,2,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023RitterAugust17,Ritter_Farm,2023,vagans,2,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023RitterAugust17,Ritter_Farm,2023,vagans,1,male,perching,,,,patrolling_or_perching,patrolling_or_perching,patrolling_or_perching,
-2023RitterAugust17,Ritter_Farm,2023,vagans,1,male,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea,
-2023RitterAugust17,Ritter_Farm,2023,vagans,1,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023RitterAugust17,Ritter_Farm,2023,vagans,1,male,Cirsium,sp.,,,Cirsium,sp.,Cirsium_sp.,
-2023RitterAugust17,Ritter_Farm,2023,vagans,1,male,Rudbeckia,hirta,,,Rudbeckia,hirta,Rudbeckia_hirta,
-2023RitterAugust17,Ritter_Farm,2023,vagans,1,female,Cirsium,vulgaris,,,Cirsium,vulgare,Cirsium_vulgare,
-2023RitterAugust17,Ritter_Farm,2023,citrinus,2,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023RitterAugust17,Ritter_Farm,2023,rufocinctus,1,female,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023RitterAugust17,Ritter_Farm,2023,rufocinctus,1,male,Eutrochium,purpureum,,,Eutrochium,purpureum,Eutrochium_purpureum,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,impatiens,1,female,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,impatiens,10,male,Solidago ,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,impatiens,1,male,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,impatiens,1,female,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,griseocollis,3,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,griseocollis,1,male,perching,,,,patrolling_or_perching,patrolling_or_perching,patrolling_or_perching,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,griseocollis,3,male,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,griseocollis,1,male,Liatris,ligulistylis,,,Liatris,ligulistylis,Liatris_ligulistylis,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,griseocollis,1,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,auricomus,5,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,auricomus,6,female,Gentiana ,alba,,,Gentiana,alba,Gentiana_alba,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,auricomus,1,female,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,auricomus,2,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,auricomus,4,male,perching,,,,patrolling_or_perching,patrolling_or_perching,patrolling_or_perching,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,auricomus,2,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,auricomus,3,male,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,vagans,1,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,citrinus,4,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,citrinus,2,male,Liatris,ligulistylis,,,Liatris,ligulistylis,Liatris_ligulistylis,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,citrinus,3,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,citrinus,1,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,citrinus,1,male,Silphium,sp.,,,Silphium,sp.,Silphium_sp.,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,rufocinctus,2,male,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,rufocinctus,4,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,rufocinctus,5,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,rufocinctus,1,male,Silphium,perfoliatum,,,Silphium,perfoliatum,Silphium_perfoliatum,
-2023SpringLakeAugust17,Spring_Lake_Park,2023,rufocinctus,1,male,Ratibida,pinnata,,,Ratibida,pinnata,Ratibida_pinnata,
-2024RitterJuly12,Ritter_Farm,2024,impatiens,1,female,Nepeta,cataria,Lamiaceae,catnip,Nepeta,cataria,Nepeta_cataria,
-2024RitterJuly12,Ritter_Farm,2024,impatiens,1,female,Leonurus,cardiaca,Lamiaceae,Motherwort,Leonurus,cardiaca,Leonurus_cardiaca,
-2024RitterJuly12,Ritter_Farm,2024,impatiens,2,male,Leonurus,cardiaca,Lamiaceae,Motherwort,Leonurus,cardiaca,Leonurus_cardiaca,
-2024RitterJuly12,Ritter_Farm,2024,bimaculatus,3,female,Nepeta,cataria,Lamiaceae,Catnip,Nepeta,cataria,Nepeta_cataria,
-2024RitterJuly12,Ritter_Farm,2024,bimaculatus,1,female,Sobaria,sorbifolia,Rosaceae,Sorbaria sorlaifelia?,Sobaria,sorbifolia,Sobaria_sorbifolia,
-2024RitterJuly12,Ritter_Farm,2024,bimaculatus,4,female,Leonurus,cardiaca,Lamiaceae,Motherwort,Leonurus,cardiaca,Leonurus_cardiaca,
-2024RitterJuly12,Ritter_Farm,2024,bimaculatus,1,male,Nepeta,cataria,Lamiaceae,Catnip,Nepeta,cataria,Nepeta_cataria,
-2024RitterJuly12,Ritter_Farm,2024,bimaculatus,2,male,Leonurus,cardiaca,Lamiaceae,Motherwort,Leonurus,cardiaca,Leonurus_cardiaca,
-2024RitterJuly12,Ritter_Farm,2024,bimaculatus,1,male,NA,NA,NA,NA,NA,NA,NA_NA,
-2024RitterJuly12,Ritter_Farm,2024,bimaculatus,1,male,Asclepias,syriaca,Apocynaceae,Common Milkweed,Asclepias,syriaca,Asclepias_syriaca,
-2024RitterJuly12,Ritter_Farm,2024,griseocollis,1,male,Echinacea,purpurea,Asteraceae,Eastern Purple Coneflower,Echinacea,purpurea,Echinacea_purpurea,
-2024RitterJuly12,Ritter_Farm,2024,auricomus,1,female,Nepeta,cataria,Lamiaceae,Catnip,Nepeta,cataria,Nepeta_cataria,
-2024RitterJuly12,Ritter_Farm,2024,vagans,1,female,Nepeta,cataria,Lamiaceae,Catnip,Nepeta,cataria,Nepeta_cataria,
-2024RitterJuly12,Ritter_Farm,2024,vagans,1,female,Penstemon,sp.,Plantaginaceae,Beardtongue,Penstemon,sp.,Penstemon_sp.,
-2024RitterJuly12,Ritter_Farm,2024,pensylvanicus,1,female,Nepeta,cataria,Lamiaceae,Catnip,Nepeta,cataria,Nepeta_cataria,
-2024RitterAugust9,Ritter_Farm,2024,impatiens,80,female,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa,
-2024RitterAugust9,Ritter_Farm,2024,impatiens,1,male,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa,
-2024RitterAugust9,Ritter_Farm,2024,impatiens,3,female,Solidago,canadensis,Asteraceae,Canada Goldenrod,Solidago,canadensis,Solidago_canadensis,
-2024RitterAugust9,Ritter_Farm,2024,impatiens,3,female,Cirsium,arvense,Asteraceae,Canada Thistle,Cirsium,arvense,Cirsium_arvense,
-2024RitterAugust9,Ritter_Farm,2024,impatiens,1,male,Cirsium,arvense,Asteraceae,Canada Thistle,Cirsium,arvense,Cirsium_arvense,
-2024RitterAugust9,Ritter_Farm,2024,impatiens,5,female,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor,
-2024RitterAugust9,Ritter_Farm,2024,impatiens,1,male,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor,
-2024RitterAugust9,Ritter_Farm,2024,impatiens,3,female,Agastache,foeniculum,Lamiaceae,Blue Giant Hyssop,Agastache,foeniculum,Agastache_foeniculum,
-2024RitterAugust9,Ritter_Farm,2024,bimaculatus,1,female,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor,
-2024RitterAugust9,Ritter_Farm,2024,bimaculatus,4,female,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa,
-2024RitterAugust9,Ritter_Farm,2024,bimaculatus,9,male,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa,
-2024RitterAugust9,Ritter_Farm,2024,bimaculatus,1,male,Cirsium,vulgare,Asteraceae,Bull Thistle,Cirsium,vulgare,Cirsium_vulgare,
-2024RitterAugust9,Ritter_Farm,2024,griseocollis,15,female,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa,
-2024RitterAugust9,Ritter_Farm,2024,griseocollis,7,male,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa,
-2024RitterAugust9,Ritter_Farm,2024,griseocollis,1,female,NA,NA,NA,NA,NA,NA,NA_NA,
-2024RitterAugust9,Ritter_Farm,2024,griseocollis,2,female,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor,
-2024RitterAugust9,Ritter_Farm,2024,griseocollis,1,male,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor,
-2024RitterAugust9,Ritter_Farm,2024,auricomus,56,female,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa,
-2024RitterAugust9,Ritter_Farm,2024,auricomus,10,female,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor,
-2024RitterAugust9,Ritter_Farm,2024,auricomus,1,female,Solidago,canadensis,Asteraceae,Canada Goldenrod,Solidago,canadensis,Solidago_canadensis,
-2024RitterAugust9,Ritter_Farm,2024,auricomus,1,female,Cirsium,vulgare,Asteraceae,Bull Thistle,Cirsium,vulgare,Cirsium_vulgare,
-2024RitterAugust9,Ritter_Farm,2024,vagans,7,female,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa,
-2024RitterAugust9,Ritter_Farm,2024,vagans,1,male,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa,
-2024RitterAugust9,Ritter_Farm,2024,fervidus,3,male,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa,
-2024RitterAugust9,Ritter_Farm,2024,fervidus,1,male,Leonurus,cardiaca,Lamiaceae,Motherwort,Leonurus,cardiaca,Leonurus_cardiaca,
-2024RitterAugust9,Ritter_Farm,2024,citrinus,2,male,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor,
-2024RitterAugust9,Ritter_Farm,2024,pensylvanicus,1,female,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor,
-2024RitterAugust9,Ritter_Farm,2024,pensylvanicus,1,female,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa,
+collectioncode,site,year,BumbleBeeSpecies,Abundance,Sex,FlowerGenus,Flowerspecies,Flowerfamily,FlowerFieldName,plantgenus_cleaned,plantspecies_cleaned,plantgenusspecies_cleaned
+2022RitterAugust9,Ritter_Farm,2022,affinis,5,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa
+2022SpringLakeAugust25,Spring_Lake_Park,2022,affinis,1,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2022SpringLakeAugust9,Spring_Lake_Park,2022,affinis,1,female,Pycnathemum,virginianum,Lamiaceae,pyc vir,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2022SpringLakeSeptember12,Spring_Lake_Park,2022,affinis,3,male,Solidago,speciosa,Asteraceae,,Solidago,speciosa,Solidago_speciosa
+2022RitterAugust9,Ritter_Farm,2022,auricomus,9,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa
+2022RitterAugust9,Ritter_Farm,2022,auricomus,1,male,Vernonia,fasciculata,Asteraceae,iron weed,Vernonia,fasciculata,Vernonia_fasciculata
+2022RitterAugust9,Ritter_Farm,2022,auricomus,1,female,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum
+2022SpringLakeAugust25,Spring_Lake_Park,2022,auricomus,1,female,Solidago,rigida,,,Solidago,rigida,Solidago_rigida
+2022SpringLakeAugust25,Spring_Lake_Park,2022,auricomus,3,female,Gentiana,alba,,,Gentiana,alba,Gentiana_alba
+2022SpringLakeAugust25,Spring_Lake_Park,2022,auricomus,1,female,Liatris,aspera,,,Liatris,aspera,Liatris_aspera
+2022SpringLakeAugust9,Spring_Lake_Park,2022,auricomus,22,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa
+2022SpringLakeAugust9,Spring_Lake_Park,2022,auricomus,1,female,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata
+2022SpringLakeAugust9,Spring_Lake_Park,2022,auricomus,1,female,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum
+2022SpringLakeJuly7,Spring_Lake_Park,2022,auricomus,1,female,Baptisia,lactea,Fabaceae,white wild indigo,Baptisia,lactea,Baptisia_lactea
+2022SpringLakeJuly7,Spring_Lake_Park,2022,auricomus,1,female,Dalea,purpurea,Fabaceae,purple prairie clover,Dalea,purpurea,Dalea_purpurea
+2022SpringLakeJuly7,Spring_Lake_Park,2022,auricomus/pensylvanicus,2,female,Baptisia,purpurea,Fabaceae,white wild indigo,Baptisia,purpurea,Baptisia_purpurea
+2022RitterAugust25,Ritter_Farm,2022,bimaculatus,1,female,Eutrochium,maculatum,,,Eutrochium,maculatum,Eutrochium_maculatum
+2022RitterAugust9,Ritter_Farm,2022,bimaculatus,1,female,Echinacea,purpurea,Asteraceae,echnacea,Echinacea,purpurea,Echinacea_purpurea
+2022RitterAugust9,Ritter_Farm,2022,bimaculatus,1,female,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata
+2022RitterAugust9,Ritter_Farm,2022,bimaculatus,2,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa
+2022RitterAugust9,Ritter_Farm,2022,bimaculatus,6,male,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa
+2022RitterJuly7,Ritter_Farm,2022,bimaculatus,14,female,Sorbaria,sorbifolia,Rosaceae,false spirea,Sorbaria,sorbifolia,Sorbaria_sorbifolia
+2022SpringLakeAugust9,Spring_Lake_Park,2022,bimaculatus,2,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa
+2022SpringLakeAugust9,Spring_Lake_Park,2022,bimaculatus,1,male,Pycnathemum,virginianum,Lamiaceae,pyc vir,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2022SpringLakeAugust9,Spring_Lake_Park,2022,bimaculatus,2,female,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum
+2022SpringLakeAugust25,Spring_Lake_Park,2022,citrinus,1,female,Liatris,aspera,,,Liatris,aspera,Liatris_aspera
+2022SpringLakeAugust25,Spring_Lake_Park,2022,citrinus,1,male,Silphium,perfoliatum,,,Silphium,perfoliatum,Silphium_perfoliatum
+2022SpringLakeAugust25,Spring_Lake_Park,2022,citrinus,5,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2022SpringLakeSeptember12,Spring_Lake_Park,2022,citrinus,2,male,Solidago,speciosa,Asteraceae,,Solidago,speciosa,Solidago_speciosa
+2022RitterAugust9,Ritter_Farm,2022,griseocollis,1,female,Echinacea,purpurea,Asteraceae,echnacea,Echinacea,purpurea,Echinacea_purpurea
+2022RitterAugust9,Ritter_Farm,2022,griseocollis,4,male,Echinacea,purpurea,Asteraceae,echnacea,Echinacea,purpurea,Echinacea_purpurea
+2022RitterAugust9,Ritter_Farm,2022,griseocollis,4,male,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata
+2022RitterAugust9,Ritter_Farm,2022,griseocollis,16,male,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa
+2022RitterAugust9,Ritter_Farm,2022,griseocollis,1,male,Agastache,foeniculum,Lamiaceae,anise hyss,Agastache,foeniculum,Agastache_foeniculum
+2022RitterAugust9,Ritter_Farm,2022,griseocollis,1,male,Eutrochium,maculatum,Asteraceae,joe pye,Eutrochium,maculatum,Eutrochium_maculatum
+2022RitterAugust9,Ritter_Farm,2022,griseocollis,1,female,Pycnathemum,virginianum,Lamiaceae,mt mint,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2022SpringLakeAugust25,Spring_Lake_Park,2022,griseocollis,2,female,Lezpedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata
+2022SpringLakeAugust25,Spring_Lake_Park,2022,griseocollis,1,female,Gentiana,alba,,,Gentiana,alba,Gentiana_alba
+2022SpringLakeAugust25,Spring_Lake_Park,2022,griseocollis,1,male,Monarda ,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2022SpringLakeAugust25,Spring_Lake_Park,2022,griseocollis,1,male,Pycnathemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2022SpringLakeAugust25,Spring_Lake_Park,2022,griseocollis,2,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2022SpringLakeAugust25,Spring_Lake_Park,2022,griseocollis,1,female,Rhus,glabra,,,Rhus,glabra,Rhus_glabra
+2022SpringLakeAugust25,Spring_Lake_Park,2022,griseocollis,1,female,Ratibida,sp.,,,Ratibida,sp.,Ratibida_sp.
+2022SpringLakeAugust9,Spring_Lake_Park,2022,griseocollis,3,male,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata
+2022SpringLakeAugust9,Spring_Lake_Park,2022,griseocollis,1,female,Pycnathemum,virginianum,Lamiaceae,pyc vir,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2022SpringLakeAugust9,Spring_Lake_Park,2022,griseocollis,1,female,Pycnathemum,verticillatum,Lamiaceae,hairy mt mint,Pycnanthemum,verticillatum,Pycnanthemum_verticillatum
+2022SpringLakeAugust9,Spring_Lake_Park,2022,griseocollis,1,female,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum
+2022SpringLakeSeptember12,Spring_Lake_Park,2022,griseocollis,3,male,Solidago,speciosa,Asteraceae,,Solidago,speciosa,Solidago_speciosa
+2022RitterAugust25,Ritter_Farm,2022,impatiens,27,female,Impatiens,capensis,,,Impatiens,capensis,Impatiens_capensis
+2022RitterAugust25,Ritter_Farm,2022,impatiens,1,male,Impatiens,capensis,,,Impatiens,capensis,Impatiens_capensis
+2022RitterAugust25,Ritter_Farm,2022,impatiens,2,female,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea
+2022RitterAugust25,Ritter_Farm,2022,impatiens,1,female,Eutrochium,maculatum,,,Eutrochium,maculatum,Eutrochium_maculatum
+2022RitterAugust25,Ritter_Farm,2022,impatiens,2,female,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2022RitterAugust25,Ritter_Farm,2022,impatiens,2,female,Solanum,dulcamara,,,Solanum,dulcamara,Solanum_dulcamara
+2022RitterAugust25,Ritter_Farm,2022,impatiens,1,female,Agastache,sp.,,,Agastache,sp.,Agastache_sp.
+2022RitterAugust25,Ritter_Farm,2022,impatiens,3,female,Cirsium,discolor,,,Cirsium,discolor,Cirsium_discolor
+2022RitterAugust25,Ritter_Farm,2022,impatiens,1,female,Veronicastrum,virginianum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2022RitterAugust9,Ritter_Farm,2022,impatiens,22,female,Pycnathemum,virginianum,Lamiaceae,mt mint,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2022RitterAugust9,Ritter_Farm,2022,impatiens,5,female,Echinacea,purpurea,Asteraceae,echnacea,Echinacea,purpurea,Echinacea_purpurea
+2022RitterAugust9,Ritter_Farm,2022,impatiens,8,female,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum
+2022RitterAugust9,Ritter_Farm,2022,impatiens,2,male,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum
+2022RitterAugust9,Ritter_Farm,2022,impatiens,9,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa
+2022RitterAugust9,Ritter_Farm,2022,impatiens,1,female,Cirsium,vulgare,Asteraceae,bull thistle,Cirsium,vulgare,Cirsium_vulgare
+2022RitterAugust9,Ritter_Farm,2022,impatiens,2,female,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata
+2022RitterAugust9,Ritter_Farm,2022,impatiens,2,female,Verbena,stricta,,,Verbena,stricta,Verbena_stricta
+2022RitterAugust9,Ritter_Farm,2022,impatiens,1,female,NA,NA,,,NA,,NA
+2022RitterAugust9,Ritter_Farm,2022,impatiens,1,female,Eutrochium,maculatum,Asteraceae,joe pye,Eutrochium,maculatum,Eutrochium_maculatum
+2022RitterJuly7,Ritter_Farm,2022,impatiens,6,female,Sorbaria,sorbifolia,Rosaceae,false spirea,Sorbaria,sorbifolia,Sorbaria_sorbifolia
+2022SpringLakeAugust25,Spring_Lake_Park,2022,impatiens,21,female,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2022SpringLakeAugust25,Spring_Lake_Park,2022,impatiens,7,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2022SpringLakeAugust25,Spring_Lake_Park,2022,impatiens,13,female,Lezpedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata
+2022SpringLakeAugust25,Spring_Lake_Park,2022,impatiens,2,female,Silphium,perfoliatum,,,Silphium,perfoliatum,Silphium_perfoliatum
+2022SpringLakeAugust25,Spring_Lake_Park,2022,impatiens,2,female,Physotegia,virginiana,,,Physotegia,virginiana,Physotegia_virginiana
+2022SpringLakeAugust25,Spring_Lake_Park,2022,impatiens,1,female,Veronicastrum,virginianum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2022SpringLakeAugust25,Spring_Lake_Park,2022,impatiens,1,female,NA,NA,,,NA,,NA
+2022SpringLakeAugust9,Spring_Lake_Park,2022,impatiens,6,female,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum
+2022SpringLakeAugust9,Spring_Lake_Park,2022,impatiens,2,male,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum
+2022SpringLakeAugust9,Spring_Lake_Park,2022,impatiens,1,female,Desmodium,canadense,Fabaceae,tick trefoil,Desmodium,canadense,Desmodium_canadense
+2022SpringLakeAugust9,Spring_Lake_Park,2022,impatiens,1,male,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata
+2022SpringLakeAugust9,Spring_Lake_Park,2022,impatiens,1,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa
+2022SpringLakeSeptember12,Spring_Lake_Park,2022,impatiens,1,female,Solidago,canadensis,Asteraceae,,Solidago,canadensis,Solidago_canadensis
+2022SpringLakeSeptember12,Spring_Lake_Park,2022,impatiens,3,male,Solidago,canadensis,Asteraceae,,Solidago,canadensis,Solidago_canadensis
+2022SpringLakeSeptember12,Spring_Lake_Park,2022,impatiens,9,female,Solidago,speciosa,Asteraceae,,Solidago,speciosa,Solidago_speciosa
+2022SpringLakeSeptember12,Spring_Lake_Park,2022,impatiens,57,male,Solidago,speciosa,Asteraceae,,Solidago,speciosa,Solidago_speciosa
+2022SpringLakeSeptember12,Spring_Lake_Park,2022,impatiens,1,female,Solidago,rigida,Asteraceae,,Solidago,rigida,Solidago_rigida
+2022SpringLakeSeptember12,Spring_Lake_Park,2022,impatiens,2,male,Solidago,rigida,Asteraceae,,Solidago,rigida,Solidago_rigida
+2022RitterAugust9,Ritter_Farm,2022,pensylvanicus,1,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa
+2022RitterJuly7,Ritter_Farm,2022,pensylvanicus,2,female,Sorbaria,sorbifolia,Rosaceae,false spirea,Sorbaria,sorbifolia,Sorbaria_sorbifolia
+2022RitterAugust9,Ritter_Farm,2022,rufocinctus,1,female,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata
+2022SpringLakeAugust25,Spring_Lake_Park,2022,rufocinctus,1,male,Monarda ,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2022SpringLakeAugust25,Spring_Lake_Park,2022,rufocinctus,1,male,Lezpedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata
+2022SpringLakeAugust9,Spring_Lake_Park,2022,rufocinctus,1,male,Patrolling,NA,,,patrolling_or_perching,patrolling_or_perching,patrolling_or_perching
+2022SpringLakeSeptember12,Spring_Lake_Park,2022,rufocinctus,1,female,Solidago,speciosa,Asteraceae,,Solidago,speciosa,Solidago_speciosa
+2022RitterAugust25,Ritter_Farm,2022,vagans,16,female,Impatiens,capensis,,,Impatiens,capensis,Impatiens_capensis
+2022RitterAugust25,Ritter_Farm,2022,vagans,1,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2022RitterAugust25,Ritter_Farm,2022,vagans,3,male,Impatiens,capensis,,,Impatiens,capensis,Impatiens_capensis
+2022RitterAugust25,Ritter_Farm,2022,vagans,1,female,Agastache,sp.,,,Agastache,sp.,Agastache_sp.
+2022RitterAugust9,Ritter_Farm,2022,vagans,9,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa
+2022RitterAugust9,Ritter_Farm,2022,vagans,2,female,Echinacea,purpurea,Asteraceae,echnacea,Echinacea,purpurea,Echinacea_purpurea
+2022RitterAugust9,Ritter_Farm,2022,vagans,1,female,Veronicastrum,virginicum,Fabaceae,culvers root,Veronicastrum,virginicum,Veronicastrum_virginicum
+2022RitterAugust9,Ritter_Farm,2022,vagans,1,female,Allium,cernuum,Liliaceae,knodding wild onion,Allium,cernuum,Allium_cernuum
+2022RitterAugust9,Ritter_Farm,2022,vagans,1,female,Ratibida,pinnata,Asteraceae,rat pin,Ratibida,pinnata,Ratibida_pinnata
+2022SpringLakeAugust25,Spring_Lake_Park,2022,vagans,3,female,Physotegia,virginiana,,,Physotegia,virginiana,Physotegia_virginiana
+2022SpringLakeAugust25,Spring_Lake_Park,2022,vagans,3,female,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2022SpringLakeAugust25,Spring_Lake_Park,2022,vagans,1,female,Physotegia,virginiana,,,Physotegia,virginiana,Physotegia_virginiana
+2022SpringLakeAugust25,Spring_Lake_Park,2022,vagans,1,female,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2022SpringLakeAugust9,Spring_Lake_Park,2022,vagans,1,female,Monarda ,fistulosa,Lamiaceae,mon fis,Monarda,fistulosa,Monarda_fistulosa
+2022SpringLakeSeptember12,Spring_Lake_Park,2022,vagans,2,male,Solidago,speciosa,Asteraceae,,Solidago,speciosa,Solidago_speciosa
+2023RitterJuly7,Ritter_Farm,2023,impatiens,18,female,Sorbaria ,sorbifolia,,,Sorbaria,sorbifolia,Sorbaria_sorbifolia
+2023RitterJuly7,Ritter_Farm,2023,impatiens,5,female,Cirsium,arvense,,,Cirsium,arvense,Cirsium_arvense
+2023RitterJuly7,Ritter_Farm,2023,impatiens,1,male,Cirsium,arvense,,,Cirsium,arvense,Cirsium_arvense
+2023RitterJuly7,Ritter_Farm,2023,bimaculatus,8,female,Sorbaria ,sorbifolia,,,Sorbaria,sorbifolia,Sorbaria_sorbifolia
+2023RitterJuly7,Ritter_Farm,2023,bimaculatus,1,female,Pycnanthemum,virginianum,,Mt mint,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023RitterJuly7,Ritter_Farm,2023,bimaculatus,1,female,Agastache,foeniculum,,,Agastache,foeniculum,Agastache_foeniculum
+2023RitterJuly7,Ritter_Farm,2023,bimaculatus,5,female,Cirsium,arvense,,,Cirsium,arvense,Cirsium_arvense
+2023RitterJuly7,Ritter_Farm,2023,bimaculatus,5,male,Sorbaria ,sorbifolia,,,Sorbaria,sorbifolia,Sorbaria_sorbifolia
+2023RitterJuly7,Ritter_Farm,2023,bimaculatus,3,male,Monarda,fistulosa,Lamiaceae,Mon fis,Monarda,fistulosa,Monarda_fistulosa
+2023RitterJuly7,Ritter_Farm,2023,bimaculatus,2,male,Nepeta,sp. ,,catmint,Nepeta,sp. ,Nepeta_sp. 
+2023RitterJuly7,Ritter_Farm,2023,bimaculatus,1,male,Agastache,foeniculum,,,Agastache,foeniculum,Agastache_foeniculum
+2023RitterJuly7,Ritter_Farm,2023,bimaculatus,4,male,Cirsium,arvense,,,Cirsium,arvense,Cirsium_arvense
+2023RitterJuly7,Ritter_Farm,2023,griseocollis,1,female,Sorbaria ,sorbifolia,,,Sorbaria,sorbifolia,Sorbaria_sorbifolia
+2023RitterJuly7,Ritter_Farm,2023,griseocollis,1,female,Cirsium,arvense,,,Cirsium,arvense,Cirsium_arvense
+2023RitterJuly7,Ritter_Farm,2023,griseocollis,1,male,Cirsium,arvense,,,Cirsium,arvense,Cirsium_arvense
+2023RitterJuly7,Ritter_Farm,2023,auricomus,1,female,Sorbaria,sorbifolia,,,Sorbaria,sorbifolia,Sorbaria_sorbifolia
+2023RitterJuly7,Ritter_Farm,2023,vagans,1,female,Nepeta,sp. ,,catmint,Nepeta,sp. ,Nepeta_sp. 
+2023RitterJuly7,Ritter_Farm,2023,vagans,1,female,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea
+2023RitterJuly7,Ritter_Farm,2023,vagans,1,female,Cirsium,arvense,,,Cirsium,arvense,Cirsium_arvense
+2023RitterJuly7,Ritter_Farm,2023,rufocinctus,2,female,Sorbaria,sorbifolia,,,Sorbaria,sorbifolia,Sorbaria_sorbifolia
+2023RitterJuly7,Ritter_Farm,2023,rufocinctus,1,female,Trifolium,repens,,,Trifolium,repens,Trifolium_repens
+2023RitterJuly7,Ritter_Farm,2023,rufocinctus,1,female,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea
+2023SpringLakeJuly7,Spring_Lake_Park,2023,bimaculatus,6,female,Monarda,fistulosa,,Mon fist,Monarda,fistulosa,Monarda_fistulosa
+2023SpringLakeJuly7,Spring_Lake_Park,2023,bimaculatus,6,female,Desmodium,canadense,,Desmodium,Desmodium,canadense,Desmodium_canadense
+2023SpringLakeJuly7,Spring_Lake_Park,2023,bimaculatus,2,female,Dalea,candida, ,,Dalea,candida,Dalea_candida
+2023SpringLakeJuly7,Spring_Lake_Park,2023,bimaculatus,2,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023SpringLakeJuly7,Spring_Lake_Park,2023,griseocollis,2,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023SpringLakeJuly7,Spring_Lake_Park,2023,griseocollis,9,female,Desmodium,canadense,,,Desmodium,canadense,Desmodium_canadense
+2023SpringLakeJuly7,Spring_Lake_Park,2023,griseocollis,3,female,Dalea,purpurea,,,Dalea,purpurea,Dalea_purpurea
+2023SpringLakeJuly7,Spring_Lake_Park,2023,griseocollis,2,female,Dalea,candida,,,Dalea,candida,Dalea_candida
+2023SpringLakeJuly7,Spring_Lake_Park,2023,griseocollis,1,female,Vicia,villosa,,,Vicia,villosa,Vicia_villosa
+2023SpringLakeJuly7,Spring_Lake_Park,2023,griseocollis,4,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023SpringLakeJuly7,Spring_Lake_Park,2023,griseocollis,1,male,Dalea,purpurea,,,Dalea,purpurea,Dalea_purpurea
+2023SpringLakeJuly7,Spring_Lake_Park,2023,auricomus,45,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023SpringLakeJuly7,Spring_Lake_Park,2023,auricomus,12,female,Desmoidum,canadense,,,Desmodium,canadense,Desmodium_canadense
+2023SpringLakeJuly7,Spring_Lake_Park,2023,auricomus,4,female,Baptisa,alba,,Baptisa white,Baptisia,alba,Baptisia_alba
+2023SpringLakeJuly7,Spring_Lake_Park,2023,auricomus,3,female,Dalea,purpurea,,,Dalea,purpurea,Dalea_purpurea
+2023SpringLakeJuly7,Spring_Lake_Park,2023,auricomus,3,female,Dalea,candida,,,Dalea,candida,Dalea_candida
+2023SpringLakeJuly7,Spring_Lake_Park,2023,auricomus,1,female,Vicia,villosa,,,Vicia,villosa,Vicia_villosa
+2023SpringLakeJuly7,Spring_Lake_Park,2023,auricomus,1,female,Veronicastrum,virginicum,,culver's root,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023SpringLakeJuly7,Spring_Lake_Park,2023,vagans,1,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023SpringLakeJuly7,Spring_Lake_Park,2023,vagans,1,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023SpringLakeJuly7,Spring_Lake_Park,2023,vagans,1,male,Dalea,purpurea,,,Dalea,purpurea,Dalea_purpurea
+2023SpringLakeJuly7,Spring_Lake_Park,2023,rufocinctus,1,female,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023RitterAugust4,Ritter_Farm,2023,impatiens,67,female,Pycnanthemum,virginianum,,Mt mint,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023RitterAugust4,Ritter_Farm,2023,impatiens,13,female,Monarda,fistulosa,,Mon fist,Monarda,fistulosa,Monarda_fistulosa
+2023RitterAugust4,Ritter_Farm,2023,impatiens,7,female,Veronicastrum,virginicum,,Culver's root,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023RitterAugust4,Ritter_Farm,2023,impatiens,3,female,Echinacea,purpurea,,Ech pur,Echinacea,purpurea,Echinacea_purpurea
+2023RitterAugust4,Ritter_Farm,2023,impatiens,1,female,Eryngium,yuccifolium,,rattlesnake master,Eryngium,yuccifolium,Eryngium_yuccifolium
+2023RitterAugust4,Ritter_Farm,2023,impatiens,1,female,Ratibida,pinnata,,Rat pin,Ratibida,pinnata,Ratibida_pinnata
+2023RitterAugust4,Ritter_Farm,2023,impatiens,2,female,Verbena,stricta,,Ver stri,Verbena,stricta,Verbena_stricta
+2023RitterAugust4,Ritter_Farm,2023,impatiens,1,male,Monarda ,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023RitterAugust4,Ritter_Farm,2023,impatiens,1,male,Ratibida ,pinnata,,,Ratibida,pinnata,Ratibida_pinnata
+2023RitterAugust4,Ritter_Farm,2023,impatiens,1,male,Verbena,stricta,,,Verbena,stricta,Verbena_stricta
+2023RitterAugust4,Ritter_Farm,2023,bimaculatus,4,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023RitterAugust4,Ritter_Farm,2023,bimaculatus,2,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023RitterAugust4,Ritter_Farm,2023,griseocollis,8,male,Echinacea ,purpurea,,,Echinacea,purpurea,Echinacea_purpurea
+2023RitterAugust4,Ritter_Farm,2023,griseocollis,2,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023RitterAugust4,Ritter_Farm,2023,griseocollis,18,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023RitterAugust4,Ritter_Farm,2023,griseocollis,5,male,Ratibida,pinnata,,,Ratibida,pinnata,Ratibida_pinnata
+2023RitterAugust4,Ritter_Farm,2023,griseocollis,2,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023RitterAugust4,Ritter_Farm,2023,auricomus,1,female,Ratibida,pinnata,,,Ratibida,pinnata,Ratibida_pinnata
+2023RitterAugust4,Ritter_Farm,2023,auricomus,22,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023RitterAugust4,Ritter_Farm,2023,auricomus,2,female,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023RitterAugust4,Ritter_Farm,2023,auricomus,1,female,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea
+2023RitterAugust4,Ritter_Farm,2023,vagans,9,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023RitterAugust4,Ritter_Farm,2023,vagans,2,female,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023RitterAugust4,Ritter_Farm,2023,vagans,1,female,Ratibida,pinnata,,,Ratibida,pinnata,Ratibida_pinnata
+2023RitterAugust4,Ritter_Farm,2023,vagans,1,female,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023RitterAugust4,Ritter_Farm,2023,vagans,1,female,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea
+2023RitterAugust4,Ritter_Farm,2023,rufocinctus,2,female,Ratibida,pinnata,,,Ratibida,pinnata,Ratibida_pinnata
+2023RitterAugust4,Ritter_Farm,2023,rufocinctus,2,female,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023RitterAugust4,Ritter_Farm,2023,rufocinctus,1,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023RitterAugust4,Ritter_Farm,2023,rufocinctus,1,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023RitterAugust4,Ritter_Farm,2023,citrinus,1,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023SpringLakeAugust4,Spring_Lake_Park,2023,impatiens,22,female,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023SpringLakeAugust4,Spring_Lake_Park,2023,impatiens,1,female,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata
+2023SpringLakeAugust4,Spring_Lake_Park,2023,impatiens,2,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023SpringLakeAugust4,Spring_Lake_Park,2023,impatiens,1,male,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata
+2023SpringLakeAugust4,Spring_Lake_Park,2023,bimaculatus,1,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023SpringLakeAugust4,Spring_Lake_Park,2023,bimaculatus,1,female,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata
+2023SpringLakeAugust4,Spring_Lake_Park,2023,bimaculatus,1,male,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata
+2023SpringLakeAugust4,Spring_Lake_Park,2023,griseocollis,1,female,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata
+2023SpringLakeAugust4,Spring_Lake_Park,2023,griseocollis,1,male,Liatris,pycnostachya,,,Liatris,pycnostachya,Liatris_pycnostachya
+2023SpringLakeAugust4,Spring_Lake_Park,2023,auricomus,28,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023SpringLakeAugust4,Spring_Lake_Park,2023,auricomus,1,female,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023SpringLakeAugust4,Spring_Lake_Park,2023,auricomus,1,female,Desomdium,canadense,,,Desmodium,canadense,Desmodium_canadense
+2023SpringLakeAugust4,Spring_Lake_Park,2023,auricomus,1,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023SpringLakeAugust4,Spring_Lake_Park,2023,auricomus,2,male,perching,,,,patrolling_or_perching,patrolling_or_perching,patrolling_or_perching
+2023SpringLakeAugust4,Spring_Lake_Park,2023,vagans,1,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023SpringLakeAugust4,Spring_Lake_Park,2023,vagans,1,female,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata
+2023SpringLakeAugust4,Spring_Lake_Park,2023,vagans,1,male,Monarda,fistuloa,,,Monarda,fistulosa,Monarda_fistulosa
+2023SpringLakeAugust4,Spring_Lake_Park,2023,vagans,2,male,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata
+2023SpringLakeAugust4,Spring_Lake_Park,2023,rufocinctus,1,male,Ratibida,pinnata,,,Ratibida,pinnata,Ratibida_pinnata
+2023SpringLakeAugust4,Spring_Lake_Park,2023,rufocinctus,2,male,perching,,,,patrolling_or_perching,patrolling_or_perching,patrolling_or_perching
+2023SpringLakeAugust4,Spring_Lake_Park,2023,rufocinctus,4,female,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023SpringLakeAugust4,Spring_Lake_Park,2023,rufocinctus,1,female,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata
+2023SpringLakeAugust4,Spring_Lake_Park,2023,rufocinctus,1,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023SpringLakeAugust4,Spring_Lake_Park,2023,citrinus,1,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023SpringLakeAugust4,Spring_Lake_Park,2023,citrinus,1,male,Pycnanthemum,sp.,,,Pycnanthemum,sp.,Pycnanthemum_sp.
+2023SpringLakeAugust4,Spring_Lake_Park,2023,affinis,1,female,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023RitterAugust17,Ritter_Farm,2023,impatiens,8,female,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea
+2023RitterAugust17,Ritter_Farm,2023,impatiens,14,female,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023RitterAugust17,Ritter_Farm,2023,impatiens,5,female,Veronia,missurica,,,Vernonia,missurica,Vernonia_missurica
+2023RitterAugust17,Ritter_Farm,2023,impatiens,1,female,Ratibida,pinnata,,,Ratibida,pinnata,Ratibida_pinnata
+2023RitterAugust17,Ritter_Farm,2023,impatiens,2,female,Monarda,fistulsoa,,bee balm,Monarda,fistulosa,Monarda_fistulosa
+2023RitterAugust17,Ritter_Farm,2023,impatiens,3,female,Heliopsis,helianthoides,,,Heliopsis,helianthoides,Heliopsis_helianthoides
+2023RitterAugust17,Ritter_Farm,2023,impatiens,2,female,Sonchus,oleraceus,,sow thistle,Sonchus,oleraceus,Sonchus_oleraceus
+2023RitterAugust17,Ritter_Farm,2023,impatiens,2,female,Solidago,canadensis,,Sol can,Solidago,canadensis,Solidago_canadensis
+2023RitterAugust17,Ritter_Farm,2023,impatiens,1,female,Rudbeckia,hirta,,Rud hirt,Rudbeckia,hirta,Rudbeckia_hirta
+2023RitterAugust17,Ritter_Farm,2023,impatiens,2,male,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea
+2023RitterAugust17,Ritter_Farm,2023,impatiens,34,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023RitterAugust17,Ritter_Farm,2023,impatiens,3,male,Veronia,missurica,,,Vernonia,missurica,Vernonia_missurica
+2023RitterAugust17,Ritter_Farm,2023,impatiens,2,male,perching,,,,patrolling_or_perching,patrolling_or_perching,patrolling_or_perching
+2023RitterAugust17,Ritter_Farm,2023,impatiens,5,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023RitterAugust17,Ritter_Farm,2023,impatiens,2,male,Heliopsis,helianthoides,,,Heliopsis,helianthoides,Heliopsis_helianthoides
+2023RitterAugust17,Ritter_Farm,2023,impatiens,3,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2023RitterAugust17,Ritter_Farm,2023,impatiens,4,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023RitterAugust17,Ritter_Farm,2023,impatiens,2,female,Oxalis,dillenii,,,Oxalis,dillenii,Oxalis_dillenii
+2023RitterAugust17,Ritter_Farm,2023,impatiens,2,female,Eutrochium,purpureum,,,Eutrochium,purpureum,Eutrochium_purpureum
+2023RitterAugust17,Ritter_Farm,2023,impatiens,1,female,Cirsium,sp.,,,Cirsium,sp.,Cirsium_sp.
+2023RitterAugust17,Ritter_Farm,2023,impatiens,1,male,Berteroa,incana,,,Berteroa,incana,Berteroa_incana
+2023RitterAugust17,Ritter_Farm,2023,impatiens,6,male,Eurtrochium,purpureum,,,Eutrochium,purpureum,Eutrochium_purpureum
+2023RitterAugust17,Ritter_Farm,2023,griseocollis,8,male,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea
+2023RitterAugust17,Ritter_Farm,2023,griseocollis,4,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023RitterAugust17,Ritter_Farm,2023,griseocollis,1,male,Veronia,missurica,,,Vernonia,missurica,Vernonia_missurica
+2023RitterAugust17,Ritter_Farm,2023,griseocollis,1,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023RitterAugust17,Ritter_Farm,2023,griseocollis,1,male,Cirsium,vulgaris,,,Cirsium,vulgare,Cirsium_vulgare
+2023RitterAugust17,Ritter_Farm,2023,auricomus,2,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023RitterAugust17,Ritter_Farm,2023,vagans,2,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023RitterAugust17,Ritter_Farm,2023,vagans,1,male,perching,,,,patrolling_or_perching,patrolling_or_perching,patrolling_or_perching
+2023RitterAugust17,Ritter_Farm,2023,vagans,1,male,Echinacea,purpurea,,,Echinacea,purpurea,Echinacea_purpurea
+2023RitterAugust17,Ritter_Farm,2023,vagans,1,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023RitterAugust17,Ritter_Farm,2023,vagans,1,male,Cirsium,sp.,,,Cirsium,sp.,Cirsium_sp.
+2023RitterAugust17,Ritter_Farm,2023,vagans,1,male,Rudbeckia,hirta,,,Rudbeckia,hirta,Rudbeckia_hirta
+2023RitterAugust17,Ritter_Farm,2023,vagans,1,female,Cirsium,vulgaris,,,Cirsium,vulgare,Cirsium_vulgare
+2023RitterAugust17,Ritter_Farm,2023,citrinus,2,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023RitterAugust17,Ritter_Farm,2023,rufocinctus,1,female,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023RitterAugust17,Ritter_Farm,2023,rufocinctus,1,male,Eutrochium,purpureum,,,Eutrochium,purpureum,Eutrochium_purpureum
+2023SpringLakeAugust17,Spring_Lake_Park,2023,impatiens,1,female,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2023SpringLakeAugust17,Spring_Lake_Park,2023,impatiens,10,male,Solidago ,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2023SpringLakeAugust17,Spring_Lake_Park,2023,impatiens,1,male,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata
+2023SpringLakeAugust17,Spring_Lake_Park,2023,impatiens,1,female,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023SpringLakeAugust17,Spring_Lake_Park,2023,griseocollis,3,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2023SpringLakeAugust17,Spring_Lake_Park,2023,griseocollis,1,male,perching,,,,patrolling_or_perching,patrolling_or_perching,patrolling_or_perching
+2023SpringLakeAugust17,Spring_Lake_Park,2023,griseocollis,3,male,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata
+2023SpringLakeAugust17,Spring_Lake_Park,2023,griseocollis,1,male,Liatris,ligulistylis,,,Liatris,ligulistylis,Liatris_ligulistylis
+2023SpringLakeAugust17,Spring_Lake_Park,2023,griseocollis,1,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023SpringLakeAugust17,Spring_Lake_Park,2023,auricomus,5,female,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023SpringLakeAugust17,Spring_Lake_Park,2023,auricomus,6,female,Gentiana ,alba,,,Gentiana,alba,Gentiana_alba
+2023SpringLakeAugust17,Spring_Lake_Park,2023,auricomus,1,female,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2023SpringLakeAugust17,Spring_Lake_Park,2023,auricomus,2,male,Monarda,fistulosa,,,Monarda,fistulosa,Monarda_fistulosa
+2023SpringLakeAugust17,Spring_Lake_Park,2023,auricomus,4,male,perching,,,,patrolling_or_perching,patrolling_or_perching,patrolling_or_perching
+2023SpringLakeAugust17,Spring_Lake_Park,2023,auricomus,2,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023SpringLakeAugust17,Spring_Lake_Park,2023,auricomus,3,male,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata
+2023SpringLakeAugust17,Spring_Lake_Park,2023,vagans,1,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023SpringLakeAugust17,Spring_Lake_Park,2023,citrinus,4,male,Pycnanthemum,virginianum,,,Pycnanthemum,virginianum,Pycnanthemum_virginianum
+2023SpringLakeAugust17,Spring_Lake_Park,2023,citrinus,2,male,Liatris,ligulistylis,,,Liatris,ligulistylis,Liatris_ligulistylis
+2023SpringLakeAugust17,Spring_Lake_Park,2023,citrinus,3,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2023SpringLakeAugust17,Spring_Lake_Park,2023,citrinus,1,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023SpringLakeAugust17,Spring_Lake_Park,2023,citrinus,1,male,Silphium,sp.,,,Silphium,sp.,Silphium_sp.
+2023SpringLakeAugust17,Spring_Lake_Park,2023,rufocinctus,2,male,Lespedeza,capitata,,,Lespedeza,capitata,Lespedeza_capitata
+2023SpringLakeAugust17,Spring_Lake_Park,2023,rufocinctus,4,male,Solidago,canadensis,,,Solidago,canadensis,Solidago_canadensis
+2023SpringLakeAugust17,Spring_Lake_Park,2023,rufocinctus,5,male,Veronicastrum,virginicum,,,Veronicastrum,virginicum,Veronicastrum_virginicum
+2023SpringLakeAugust17,Spring_Lake_Park,2023,rufocinctus,1,male,Silphium,perfoliatum,,,Silphium,perfoliatum,Silphium_perfoliatum
+2023SpringLakeAugust17,Spring_Lake_Park,2023,rufocinctus,1,male,Ratibida,pinnata,,,Ratibida,pinnata,Ratibida_pinnata
+2024RitterJuly12,Ritter_Farm,2024,impatiens,1,female,Nepeta,cataria,Lamiaceae,catnip,Nepeta,cataria,Nepeta_cataria
+2024RitterJuly12,Ritter_Farm,2024,impatiens,1,female,Leonurus,cardiaca,Lamiaceae,Motherwort,Leonurus,cardiaca,Leonurus_cardiaca
+2024RitterJuly12,Ritter_Farm,2024,impatiens,2,male,Leonurus,cardiaca,Lamiaceae,Motherwort,Leonurus,cardiaca,Leonurus_cardiaca
+2024RitterJuly12,Ritter_Farm,2024,bimaculatus,3,female,Nepeta,cataria,Lamiaceae,Catnip,Nepeta,cataria,Nepeta_cataria
+2024RitterJuly12,Ritter_Farm,2024,bimaculatus,1,female,Sobaria,sorbifolia,Rosaceae,Sorbaria sorlaifelia?,Sobaria,sorbifolia,Sobaria_sorbifolia
+2024RitterJuly12,Ritter_Farm,2024,bimaculatus,4,female,Leonurus,cardiaca,Lamiaceae,Motherwort,Leonurus,cardiaca,Leonurus_cardiaca
+2024RitterJuly12,Ritter_Farm,2024,bimaculatus,1,male,Nepeta,cataria,Lamiaceae,Catnip,Nepeta,cataria,Nepeta_cataria
+2024RitterJuly12,Ritter_Farm,2024,bimaculatus,2,male,Leonurus,cardiaca,Lamiaceae,Motherwort,Leonurus,cardiaca,Leonurus_cardiaca
+2024RitterJuly12,Ritter_Farm,2024,bimaculatus,1,male,NA,NA,NA,NA,NA,NA,NA_NA
+2024RitterJuly12,Ritter_Farm,2024,bimaculatus,1,male,Asclepias,syriaca,Apocynaceae,Common Milkweed,Asclepias,syriaca,Asclepias_syriaca
+2024RitterJuly12,Ritter_Farm,2024,griseocollis,1,male,Echinacea,purpurea,Asteraceae,Eastern Purple Coneflower,Echinacea,purpurea,Echinacea_purpurea
+2024RitterJuly12,Ritter_Farm,2024,auricomus,1,female,Nepeta,cataria,Lamiaceae,Catnip,Nepeta,cataria,Nepeta_cataria
+2024RitterJuly12,Ritter_Farm,2024,vagans,1,female,Nepeta,cataria,Lamiaceae,Catnip,Nepeta,cataria,Nepeta_cataria
+2024RitterJuly12,Ritter_Farm,2024,vagans,1,female,Penstemon,sp.,Plantaginaceae,Beardtongue,Penstemon,sp.,Penstemon_sp.
+2024RitterJuly12,Ritter_Farm,2024,pensylvanicus,1,female,Nepeta,cataria,Lamiaceae,Catnip,Nepeta,cataria,Nepeta_cataria
+2024RitterAugust9,Ritter_Farm,2024,impatiens,80,female,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa
+2024RitterAugust9,Ritter_Farm,2024,impatiens,1,male,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa
+2024RitterAugust9,Ritter_Farm,2024,impatiens,3,female,Solidago,canadensis,Asteraceae,Canada Goldenrod,Solidago,canadensis,Solidago_canadensis
+2024RitterAugust9,Ritter_Farm,2024,impatiens,3,female,Cirsium,arvense,Asteraceae,Canada Thistle,Cirsium,arvense,Cirsium_arvense
+2024RitterAugust9,Ritter_Farm,2024,impatiens,1,male,Cirsium,arvense,Asteraceae,Canada Thistle,Cirsium,arvense,Cirsium_arvense
+2024RitterAugust9,Ritter_Farm,2024,impatiens,5,female,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor
+2024RitterAugust9,Ritter_Farm,2024,impatiens,1,male,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor
+2024RitterAugust9,Ritter_Farm,2024,impatiens,3,female,Agastache,foeniculum,Lamiaceae,Blue Giant Hyssop,Agastache,foeniculum,Agastache_foeniculum
+2024RitterAugust9,Ritter_Farm,2024,bimaculatus,1,female,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor
+2024RitterAugust9,Ritter_Farm,2024,bimaculatus,4,female,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa
+2024RitterAugust9,Ritter_Farm,2024,bimaculatus,9,male,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa
+2024RitterAugust9,Ritter_Farm,2024,bimaculatus,1,male,Cirsium,vulgare,Asteraceae,Bull Thistle,Cirsium,vulgare,Cirsium_vulgare
+2024RitterAugust9,Ritter_Farm,2024,griseocollis,15,female,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa
+2024RitterAugust9,Ritter_Farm,2024,griseocollis,7,male,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa
+2024RitterAugust9,Ritter_Farm,2024,griseocollis,1,female,NA,NA,NA,NA,NA,NA,NA_NA
+2024RitterAugust9,Ritter_Farm,2024,griseocollis,2,female,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor
+2024RitterAugust9,Ritter_Farm,2024,griseocollis,1,male,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor
+2024RitterAugust9,Ritter_Farm,2024,auricomus,56,female,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa
+2024RitterAugust9,Ritter_Farm,2024,auricomus,10,female,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor
+2024RitterAugust9,Ritter_Farm,2024,auricomus,1,female,Solidago,canadensis,Asteraceae,Canada Goldenrod,Solidago,canadensis,Solidago_canadensis
+2024RitterAugust9,Ritter_Farm,2024,auricomus,1,female,Cirsium,vulgare,Asteraceae,Bull Thistle,Cirsium,vulgare,Cirsium_vulgare
+2024RitterAugust9,Ritter_Farm,2024,vagans,7,female,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa
+2024RitterAugust9,Ritter_Farm,2024,vagans,1,male,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa
+2024RitterAugust9,Ritter_Farm,2024,fervidus,3,male,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa
+2024RitterAugust9,Ritter_Farm,2024,fervidus,1,male,Leonurus,cardiaca,Lamiaceae,Motherwort,Leonurus,cardiaca,Leonurus_cardiaca
+2024RitterAugust9,Ritter_Farm,2024,citrinus,2,male,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor
+2024RitterAugust9,Ritter_Farm,2024,pensylvanicus,1,female,Cirsium,discolor,Asteraceae,Field Thistle,Cirsium,discolor,Cirsium_discolor
+2024RitterAugust9,Ritter_Farm,2024,pensylvanicus,1,female,Monarda,fistulosa,Lamiaceae,Wild Bergamont,Monarda,fistulosa,Monarda_fistulosa
