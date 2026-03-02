@@ -65,7 +65,24 @@ relabund=ritterbees %>%
 ###transpose
 transprelabund=relabund[-1] %>% t() %>% as.data.frame() %>% setNames(relabund[,1])
 
-#####format table outside of R with relative abudance
+##Format relative abundance barplot
+library(ggplot2)
+library(RColorBrewer)
+library(viridis)
+
+##View only colorblind-friendly palettes
+display.brewer.all(colorblindFriendly = TRUE)
+
+ggplot(ritterbees, aes(x = factor(year), fill = BumbleBeeSpecies)) +
+  geom_bar(position = "fill") +
+  scale_y_continuous(labels = scales::percent) +
+  scale_fill_brewer(palette = "PuOr") + #Using a colorblind friendly palette
+  labs(title = "Bumble Bee Species Abundance by Year", 
+       x = "Year",
+       y = "Relative Abundance",
+       fill = "Bumble Bee Species") +
+  theme_minimal()
+
 
 ##bee abundance over time
 fm1=lm(totalbeesobserved ~ year, data = effort)
