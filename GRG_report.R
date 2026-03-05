@@ -7,7 +7,7 @@ library(janitor)
 library(viridis)
 library(bipartite)
 library(tidyr)
-library(emmeans)
+library(ggplot2)
 
 
 ####all bumble bee data 2022 to 2025
@@ -242,7 +242,43 @@ pt$renderPivot()
 
 
 
-##interaction plots....use bipartite package
+###phenology
+library(lubridate)
+collection=read.csv("GRG_coll.csv")
+collection <- collection[ which(collection$LocationCode=='Ritter'), ]
+
+#add column with julian date
+collection$eventDate<- as.Date(collection$eventDate, "%m/%d/%y")
+collection$julian <- yday(collection$eventDate)  
+
+#connect bee data with julian date
+
+ritterbeesjulian=left_join(ritterbees, collection, by="collectioncode")
+
+#sum by date
+julsum=aggregate(Abundance~ BumbleBeeSpecies+julian, data=ritterbeesjulian, FUN=sum)
+
+#separate abundance and rare
+julabund <- filter(julsum,BumbleBeeSpecies=="impatiens" | BumbleBeeSpecies=='bimaculatus'|BumbleBeeSpecies=='griseocollis'|BumbleBeeSpecies=='auricomus')
+julrare=filter_out(julsum,BumbleBeeSpecies=="impatiens" | BumbleBeeSpecies=='bimaculatus'|BumbleBeeSpecies=='griseocollis'|BumbleBeeSpecies=='auricomus')
 
 
+#plot phenology
+p=ggplot(julabund, aes(x = julian, y = Abundance)) + 
+  geom_line(aes(color = BumbleBeeSpecies), linewidth = 1)  + scale_fill_brewer(palette = "PuOr")+
+  labs(title = "Common bumble bee phenology ",
+         x = "Julian date",   y = " Abundance", color = "Bumble bee species") +
+  theme_minimal()+
+theme(legend.text = element_text(face = "italic"))
+  
 
+p
+  
+p2=ggplot(julrare, aes(x = julian, y = Abundance)) + 
+  geom_line(aes(color = BumbleBeeSpecies), linewidth = 1)  + scale_fill_brewer(palette = "PuOr")+
+  labs(title = "Uncommon bumble bee phenology ",
+       x = "Julian date",   y = " Abundance", color = "Bumble bee species") +
+  theme_minimal()+
+  theme(legend.text = element_text(face = "italic"))
+
+p2
