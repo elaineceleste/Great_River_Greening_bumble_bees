@@ -138,9 +138,6 @@ plotnetwork_mat[is.na(plotnetwork_mat)] <- 0
 row.names(plotnetwork_mat) <- plotnetwork$FlowerName
 head(plotnetwork_mat)
 
-#remove that first row
-
-plotnetwork_mat = plotnetwork_mat[-1,]
 
 ###making plot
 
